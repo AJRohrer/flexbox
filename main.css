@@ -25,3 +25,11 @@
 input {
     width: 100%;
 }
+
+.menudots {
+    color: blue;
+}
+
+.ajr-align-right {
+    text-align: right;
+}
