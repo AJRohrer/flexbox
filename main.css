@@ -28,6 +28,18 @@ input {
 
 .menudots {
     color: blue;
+    margin-right: 5px;
+    font-size: 25px;
+}
+
+.searchicon {
+    color: blue;
+    font-size: 15px;
+}
+
+.menudots:hover{
+    cursor:pointer;
+    color: green;
 }
 
 .ajr-align-right {
