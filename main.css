@@ -27,14 +27,19 @@ input {
     font-size: 25px;
 }
 
+.menudots:hover{
+    cursor:pointer;
+    color: green;
+}
+
 .searchicon {
     color: blue;
     font-size: 15px;
 }
 
-.menudots:hover{
+.searchicon:hover{
     cursor:pointer;
-    color: green;
+    color:green;
 }
 
 .ajr-align-right {
